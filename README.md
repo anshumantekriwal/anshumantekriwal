@@ -136,10 +136,9 @@ Discord:
 <br />
 <b><i>CONTRIBUTIONS - </i> </b>
   <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ansh3101&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Ansh3101&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="45%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=anshumantekriwal&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anshumantekriwal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="45%"/>
       </p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Ansh3101&theme=green&bg_color=0D1117&hide_border=true" width="100%"/>
 
   <!--
 
