@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width-100%&height=250&section=header&text=Anshuman%20Tekriwal&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=white&desc=AI%20Engineer%20|%20Blockchain%20Developer%20|%20DeFi%20Specialist&descAlignY=55&descSize=15" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width-100%&height=250&section=header&text=Anshuman%20Tekriwal&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=white&desc=AI%20Engineer%20|%20Blockchain%20Developer%20&descAlignY=55&descSize=15" />
 </div>
 
 
