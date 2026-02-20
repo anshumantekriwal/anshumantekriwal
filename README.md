@@ -1,12 +1,7 @@
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width-100%&height=250&section=header&text=Anshuman%20Tekriwal&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=white&desc=AI%20Engineer%20|%20Blockchain%20Developer%20&descAlignY=55&descSize=15" />
-</div>
-
 
   <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=anshumantekriwal&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=anshumantekriwal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="45%"/>
       </p>
 
   <!--
